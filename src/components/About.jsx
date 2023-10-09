@@ -14,23 +14,21 @@ const About = () => {
         </div>
 
         <p className="text-xl mt-20">
-          Lorem ipsum dolor, sit amet consectetur adipisicing elit. Eius,
-          deserunt illum mollitia officiis qui exercitationem perferendis neque
-          quasi a recusandae necessitatibus tempora iusto! Blanditiis error
-          iste, totam fugiat recusandae rerum laborum perferendis molestiae
-          aperiam asperiores nemo. Magni dolor maxime debitis vitae, eaque hic
-          ab mollitia voluptatibus, a nostrum eveniet laborum!
+          
         </p>
 
         <br />
 
         <p className="text-xl">
-          Lorem, ipsum dolor sit amet consectetur adipisicing elit. Laborum
-          pariatur, vel similique sint, nobis aspernatur ut praesentium
-          explicabo ipsam aliquid quasi laboriosam et culpa possimus repudiandae
-          quisquam ullam maiores ab unde. Fugiat odio mollitia nemo alias.
-          Commodi facilis atque nulla vero voluptatem explicabo. Quibusdam,
-          magni quo! Eum cupiditate debitis labore.
+        I'm YASH SISODIA, an enthusiastic Frontend Developer, deeply committed to crafting captivating and user-centric websites. My journey in web development has been a thrilling adventure, driven by a passion for turning innovative concepts into seamless digital experiences.
+
+With proficiency in HTML5, CSS3, JavaScript, and cutting-edge frameworks such as React and Vue.js, I transform ideas into responsive and visually appealing websites. I prioritize clean, efficient code and stay current with industry trends to deliver exceptional results.
+
+What sets me apart is my dedication to user satisfaction. I collaborate closely with designers and fellow developers to ensure that every project resonates with its audience. My user-centered approach guarantees that functionality and aesthetics harmonize seamlessly.
+
+Beyond coding, I embrace a balanced lifestyle, finding inspiration in design trends, enjoying coffee in cozy cafés, and exploring the outdoors. This balance fuels my creativity.
+
+Please explore my portfolio to witness my frontend skills in action. Whether you have a project in mind or seek a collaborator, I'm eager to connect. Contact me at [yashsisodia5062@gmail.com] or through my social media profiles. Let's embark on a journey to create exceptional web experiences together. Thank you for visiting!
         </p>
       </div>
     </div>
